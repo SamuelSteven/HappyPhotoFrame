@@ -1,0 +1,3 @@
+# HappyPhotoFrame
+
+Happy photo frame is a system that can display user's memorable photos which are recognized by facial recognition. This is a project assignment from a computer vision course. Happy photo frame is an idea that we propose as a project. In the code, my new group of friends and I have worked out how this system can get and recognize our faces. The progress of this project will continue to be updated...
